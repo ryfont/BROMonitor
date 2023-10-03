@@ -9,6 +9,6 @@ motor==2.1.0
 Jinja2==2.11.1
 beautifulsoup4==4.9.1
 lxml==4.6.5
-Pillow==9.0.1
+Pillow==10.0.1
 markupsafe==2.0.1
 beautifulsoup4==4.9.1
